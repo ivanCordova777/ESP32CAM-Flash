@@ -7,6 +7,8 @@
 //LED Flash del ESP32CAM. Este programa parte del
 //hecho de que cuentas con la base programadora.
 
+//Comentario hecho por ivan <-------
+
 //Definición de pines
 #define LAMP 4 //Se selecciona 
 
